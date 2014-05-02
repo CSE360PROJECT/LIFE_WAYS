@@ -1,0 +1,60 @@
+Date: 05.02.2014
+Blood Pressure
+Systolic: 120
+Diastolic: 80
+Heart Rate: 50
+Glucose: 75
+Weight: 170
+Sleep Time: 0 : 00 am
+Wake Time: 0 : 00 pm
+Notes: No notes today
+
+
+Date: 05.02.2014
+Blood Pressure
+Systolic: 100
+Diastolic: 89
+Heart Rate: 80
+Glucose: 175
+Weight: 160
+Sleep Time: 0 : 00 am
+Wake Time: 0 : 00 pm
+Notes: No notes today
+
+
+Date: 05.02.2014
+Blood Pressure
+Systolic: 90
+Diastolic: 80
+Heart Rate: 60
+Glucose: 95
+Weight: 150
+Sleep Time: 0 : 00 am
+Wake Time: 0 : 00 pm
+Notes: No notes today
+
+
+Date: 05.02.2014
+Blood Pressure
+Systolic: 120
+Diastolic: 60
+Heart Rate: 70
+Glucose: 120
+Weight: 140
+Sleep Time: 0 : 00 am
+Wake Time: 0 : 00 pm
+Notes: No notes today
+
+
+Date: 05.02.2014
+Blood Pressure
+Systolic: 150
+Diastolic: 100
+Heart Rate: 120
+Glucose: 75
+Weight: 130
+Sleep Time: 0 : 00 am
+Wake Time: 0 : 00 pm
+Notes: No notes today
+
+
