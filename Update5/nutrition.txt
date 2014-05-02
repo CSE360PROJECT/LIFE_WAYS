@@ -1,0 +1,37 @@
+Food
+
+Food: 
+Calories Consumed: 
+
+Food: 
+Calories Consumed: 
+
+Food: 
+Calories Consumed: 
+
+Food: 
+Calories Consumed: 
+
+Food: 
+Calories Consumed: 
+
+Food: 
+Calories Consumed: 
+
+Food: 
+Calories Consumed: 
+
+
+Food Notes
+
+
+Exercise
+
+Physical Activity: 
+Duration: 
+Calories Burned: 
+
+
+Exercise Notes
+
+
