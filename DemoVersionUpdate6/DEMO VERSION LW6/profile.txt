@@ -1,0 +1,12 @@
+James
+Keep
+2
+14
+1990
+5
+9
+189
+male
+password
+Favorite Sport?
+Basketball
